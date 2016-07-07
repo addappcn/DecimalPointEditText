@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="DecimalPointEditText">
+        <attr name="decimalPoint" format="integer"/>
+    </declare-styleable>
+</resources>
